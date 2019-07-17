@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">MyAndelaApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_alc" />
+    <string name="about_alcs">about_alc</string>
+    <string name="my_profile">my_profile</string>
+    <string name="Welcome_note">WELCOME TO ALC 4.0</string>
+    <string name="title_activity_about_andela">AboutAndela</string>
+    <string name="title_activity_my_profile">MyProfile</string>
+    <string name="Andela">Andela</string>
+    <string name="header">alc_header</string>
+    <string name="header1">The Andela Learning Community</string>
+    <string name="header2"></string>
+    <string name="Name1">Tochukwu Epuechi</string>
+    <string name="Welcome">WELCOME TO ANDELA 4.0</string>
+</resources>
+
+
