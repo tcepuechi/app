@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         setSupportActionBar(toolbar);
 
 
-
+//Using this to change color for API >19
         getWindow().setStatusBarColor(getResources().getColor(R.color.Andela_blue));
         about = findViewById(R.id.button_aboutalc);
 
